@@ -1,4 +1,4 @@
-## Doctor-appointmnet-system-mern-project
+## Doctor-appointmnet-system-MERN-project
 Doctor Appointment Application
 
 ## Live Project Link

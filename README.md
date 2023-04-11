@@ -1,5 +1,5 @@
 ## Doctor-appointmnet-system-MERN-project
-Doctor Appointment Application
+Doctor Appointment Application.
 
 ## Live Project Link
 [Doc Appointment App](https://doctorapp-wbhw.onrender.com)
